@@ -1,0 +1,17 @@
+package com.pingwit.part_1;
+
+public class OperatorIncremetorExe {
+    static void main(String[] args) {
+        int x = 0;
+        x = x+1;
+        System.out.println(x);
+        System.out.println(++x);
+        System.out.println("==");
+        System.out.println(x++);
+        System.out.println(x);
+        System.out.println(--x);
+        System.out.println(x--);
+        System.out.println(x);
+    }
+
+}
