@@ -1,5 +1,6 @@
 package com.pingwit.part_3;
 
+//Посмотри комментарии к home_work.java в part_1, здесь такой же подход
 public class dopHomework {
     static void main(String[] args) {
         int bitcoins = 5;

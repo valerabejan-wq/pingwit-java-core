@@ -1,6 +1,6 @@
 package com.pingwit.part_3;
 
-public class SwitchExe {
+public class SwitchExe { // Если Exe имелось ввиду Example, то лучше назвать SwitchExample
     static void main(String[] args) {
 
         int number = 2;

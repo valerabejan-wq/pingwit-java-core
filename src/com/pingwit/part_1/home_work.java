@@ -1,6 +1,10 @@
 package com.pingwit.part_1;
 
-public class home_work {
+//1. отформатируй код
+//2. Классы с задачами должны называться Task1, Task2 и тд, либо и даже лучше давать информативные названия классов, например HelloWorld, SumCalculator и тд
+//3. внутри каждой части (part_1, part_2 и тд) должен быть свой пакет (папка) homework, в котором уже будут классы с задачами
+
+public class home_work { // Название класса необходимо поменять на HomeWork (первая буква заглавная тоже) через refactor -> rename
     static void main(String[] args) {
        //Task 4
         System.out.println("Hellow world");
