@@ -1,4 +1,4 @@
-package com.pingwit.part_3;
+package com.pingwit.part_3.HomeWork;
 
 public class dopHomework {
     static void main(String[] args) {
@@ -12,8 +12,8 @@ public class dopHomework {
 
         switch (cryptoId) {
             case 1 -> System.out.println("Сумма в ETH: " + bitcoins * ethereumRate);
-            case 2 -> System.out.println("Сумма в DOGE: " +  bitcoins * dogecoinRate);
-            case 3 -> System.out.println("Сумма в SOL: " +  bitcoins * solanaRate);
+            case 2 -> System.out.println("Сумма в DOGE: " + bitcoins * dogecoinRate);
+            case 3 -> System.out.println("Сумма в SOL: " + bitcoins * solanaRate);
             default -> System.out.println("Обмен на данную криптовалюту невозможен.");
         }
     }

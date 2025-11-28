@@ -1,6 +1,7 @@
 package com.pingwit.part_3;
 
-public class IfExe {
+// отформатируй код
+public class IfExe { // Если Exe имелось ввиду Example, то лучше назвать IfExample
     static void main(String[] args) {
         int x = 100;
         int y = 200;
@@ -10,6 +11,7 @@ public class IfExe {
 
         System.out.println("===");
 
+        // Опечатка в названии переменной resoult -> result
         boolean resoult = x < y;
 
         if(resoult){
@@ -19,10 +21,11 @@ public class IfExe {
         } else {
             System.out.println("x < y");
         }
+// лишняя строка, давай удалим
 
-
+        //Опечатка в названии переменной resoultMessage -> resultMessage
         String resoultMessage = x >0 ?  "x<0" : "x>0";
         System.out.println(resoultMessage);
-
+// лишняя строка, давай удалим
     }
 }

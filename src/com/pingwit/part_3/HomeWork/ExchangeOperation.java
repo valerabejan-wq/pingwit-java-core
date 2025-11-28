@@ -1,7 +1,7 @@
-package com.pingwit.part_3;
+package com.pingwit.part_3.HomeWork;
 
-public class homework {
-     static void main(String[] args) {
+public class ExchangeOperation {
+    static void main(String[] args) {
 
         // Сумма в долларах, которую хотим обменять
         int dollars = 100;
