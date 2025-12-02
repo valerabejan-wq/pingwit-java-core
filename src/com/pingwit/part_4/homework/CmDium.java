@@ -1,6 +1,6 @@
 package com.pingwit.part_4.HomeWork;
 //Task5
-public class cmDium {
+public class CmDium {
     public static void main(String[] args) {
         double dium = 2.54;
 

@@ -1,4 +1,4 @@
-package com.pingwit.part_5.HomeWork;
+package com.pingwit.part_5.homework;
 
 public class Task1 {
     static void main(String[] args) {

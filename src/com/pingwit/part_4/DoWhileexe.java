@@ -1,6 +1,6 @@
 package com.pingwit.part_4;
 
-public class doWhileexe {
+public class DoWhileexe {
     static void main(String[] args) {
         int i = 14;
 

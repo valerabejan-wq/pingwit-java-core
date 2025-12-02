@@ -1,6 +1,6 @@
 package com.pingwit.part_4.HomeWork;
 //Task 7
-public class sum {
+public class Sum {
     static void main(String[] args) {
         int i = 1;
         int sum = 0;  //

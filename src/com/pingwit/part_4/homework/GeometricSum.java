@@ -1,6 +1,6 @@
 package com.pingwit.part_4.HomeWork;
 //Task 3
-public class geometricSum {
+public class GeometricSum {
     static void main(String[] args) {
         int i = 1;
 

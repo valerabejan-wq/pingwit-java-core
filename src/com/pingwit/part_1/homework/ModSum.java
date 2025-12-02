@@ -1,4 +1,4 @@
-package com.pingwit.part_1.HomeWork;
+package com.pingwit.part_1.homework;
 
 public class ModSum {
     static void main(String[] args) {

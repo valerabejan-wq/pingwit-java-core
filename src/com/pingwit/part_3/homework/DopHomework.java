@@ -1,6 +1,6 @@
 package com.pingwit.part_3.HomeWork;
 
-public class dopHomework {
+public class DopHomework {
     static void main(String[] args) {
         int bitcoins = 5;
 

@@ -1,4 +1,4 @@
-package com.pingwit.part_4.HomeWork;
+package com.pingwit.part_4.homework;
 //Task1
 public class SportWeek {
     static void main(String[] args) {

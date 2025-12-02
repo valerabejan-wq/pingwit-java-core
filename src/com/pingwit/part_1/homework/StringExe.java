@@ -1,4 +1,4 @@
-package com.pingwit.part_1.HomeWork;
+package com.pingwit.part_1.homework;
 
 public class StringExe {
     static void main(String[] args) {

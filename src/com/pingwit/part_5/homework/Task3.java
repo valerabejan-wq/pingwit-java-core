@@ -1,4 +1,4 @@
-package com.pingwit.part_5.HomeWork;
+package com.pingwit.part_5.homework;
 
 import java.util.Scanner;
 

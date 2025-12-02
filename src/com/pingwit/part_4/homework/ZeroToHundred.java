@@ -1,6 +1,6 @@
 package com.pingwit.part_4.HomeWork;
 //Task8
-public class zeroToHundred {
+public class ZeroToHundred {
     static void main(String[] args) {
         int sumX = 0;
         int sumY = 0;
