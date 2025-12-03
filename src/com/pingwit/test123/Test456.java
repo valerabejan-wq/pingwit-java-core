@@ -1,4 +1,4 @@
 package com.pingwit.test123;
 
-public class test456 {
+public class Test456 {
 }
