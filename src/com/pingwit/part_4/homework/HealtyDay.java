@@ -1,4 +1,4 @@
-package com.pingwit.part_4.HomeWork;
+package com.pingwit.part_4.homework;
 //Task 1
 public class HealtyDay {
     static void main(String[] args) {

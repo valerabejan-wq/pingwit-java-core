@@ -1,4 +1,4 @@
-package com.pingwit.part_3.HomeWork;
+package com.pingwit.part_3.homework;
 
 public class DopHomework {
     static void main(String[] args) {

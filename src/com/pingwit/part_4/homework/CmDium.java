@@ -1,4 +1,4 @@
-package com.pingwit.part_4.HomeWork;
+package com.pingwit.part_4.homework;
 //Task5
 public class CmDium {
     public static void main(String[] args) {

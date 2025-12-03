@@ -1,7 +1,5 @@
-package com.pingwit.part_4.HomeWork;
+package com.pingwit.part_4.homework;
 
-//2. Таблица умножения:
-//Вывести таблицу умножения на 7 от 1 до 10 (например, 7 x 1 = 7).
 public class Dop2 {
     static void main(String[] args) {
         int x = 7;

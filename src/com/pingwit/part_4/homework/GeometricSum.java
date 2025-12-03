@@ -1,4 +1,4 @@
-package com.pingwit.part_4.HomeWork;
+package com.pingwit.part_4.homework;
 //Task 3
 public class GeometricSum {
     static void main(String[] args) {

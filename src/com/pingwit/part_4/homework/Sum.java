@@ -1,4 +1,4 @@
-package com.pingwit.part_4.HomeWork;
+package com.pingwit.part_4.homework;
 //Task 7
 public class Sum {
     static void main(String[] args) {
