@@ -1,6 +1,6 @@
 package com.pingwit.part_4.homework;
 //Task1
-public class SportWeek {
+public class SportWeek { // Это похоже на вторую версию решения задачи (первая в классе HealtyDay). Когда заканчиваешь домашку выбирай 1, вторую удаляй. Это версия мне нравится больше
     static void main(String[] args) {
         double dayDistance = 10; // первый день
         double factor = 1.1;     // увеличение на 10%

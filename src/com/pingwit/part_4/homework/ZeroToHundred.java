@@ -1,4 +1,4 @@
-package com.pingwit.part_4.HomeWork;
+package com.pingwit.part_4.HomeWork;// HomeWork поменяй на homework, в данном случае можно без рефакторинга, просто исправь название пакета
 //Task8
 public class ZeroToHundred {
     static void main(String[] args) {
@@ -20,6 +20,7 @@ public class ZeroToHundred {
         }
         System.out.println("Сумма чётных чисел: " + sumX);
         System.out.println("Сумма НЕ чётных чисел: " + sumY);
+        // Cумма - IntellijIdea подчеркивает зеленым и на первый взгляд ошибки нету, но первая буква "С" написана латиницей, а не кириллицей, поменяй раскладку на русскую и попробуй заменить букву "С"
         System.out.println("Cумма всех чисел: " + (sumX + sumY));
     }
 }

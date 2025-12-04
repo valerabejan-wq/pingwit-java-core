@@ -3,7 +3,7 @@ package com.pingwit.part_4.homework;
 public class Sum {
     static void main(String[] args) {
         int i = 1;
-        int sum = 0;  //
+        int sum = 0;  // <- оставил пустой комментарий, давай его удалим
 
         do {
             if (i % 2 != 0) {

@@ -1,4 +1,4 @@
-package com.pingwit.part_4.HomeWork;
+package com.pingwit.part_4.HomeWork; // HomeWork поменяй на homework, в данном случае можно без рефакторинга, просто исправь название пакета
 //Task6
 public class TwoToHundred {
     static void main(String[] args) {

@@ -1,6 +1,6 @@
 package com.pingwit.part_4.homework;
 //Task 1
-public class HealtyDay {
+public class HealtyDay { // Очень клевое название класса, но с опечаткой. Правильно HealthyDay - пропущена буква "h"
     static void main(String[] args) {
         int dayFirst = 10;
         double dailyProgress = 1.1;
